@@ -1,6 +1,6 @@
 # AuthHero Multi-Tenant Server
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/markusahlstrand/authhero-cloudflare-multi-tenant)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://github.com/authhero/authhero-cloudflare-multi-tenant)
 
 A production-grade multi-tenant AuthHero authentication server using Cloudflare Workers with:
 
